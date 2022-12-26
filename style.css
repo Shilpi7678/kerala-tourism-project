@@ -1,0 +1,65 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.logo
+{
+    position: absolute;
+    margin-top: 3px;
+    margin-right: 20px;
+    margin-left: 500px;
+    /* width:200px;
+    height: 50px;
+    /* font-family: lato; */
+    /* background-color: #45454d; */
+    /* color: #fff;
+    border: 0;
+    box-shadow: 4px 2px lightgrey;
+    border-radius: 5px; */ 
+
+}
+
+.logo1
+{
+    position: absolute;
+    margin-top: 3px;
+    margin-right:40px;
+    margin-left: 700px;
+    color: black;
+    
+
+
+}
+
+.logo2
+{
+    position: absolute;
+    margin-top: 3px;
+    margin-right:40px;
+    margin-left: 900px;
+    color: black;
+    
+
+}
+.logo3
+{   
+    
+    position: absolute;
+    margin-top: 3px;
+    margin-right:40px;
+    margin-left: 1100px;
+    color: black;
+    
+
+}
+.offer
+{
+    position:absolute;
+    margin-left: 1000px;
+    margin-top: 80px;
+    margin-right: 1000;
+    height: 80px;
+    width: auto;
+}
+
